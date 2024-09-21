@@ -1,18 +1,25 @@
 ---
 layout: page
-title: About
+title: 资沽指数 - 沪深A股非官方增强指数
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+在沪深A股市场中，国内官方指数一直在过山车，原地踏步，故而创建一个非官方指数--资沽指数，对应英文名为ZigIndex，力争打破国内指数长期徘徊的魔咒。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+资沽指数ZigIndex的官方网站为http://www.zigindex.com，本指数运营起始于2024年1月。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+资沽指数ZigIndex将以季度为周期进行维护运营，调整其成分股与对应权重比例，目前这个指数以组合的形式在东方财富与雪球社区运行，具体成分股与权重配置请点击查看资沽指数ZigIndex。
 
+目前资沽指数ZigIndex的成分股配置如下：
+中国平安
+招商银行
+宁德时代
+美的集团
+万华化学
+长江电力
+五粮液
+伊利股份
+迈瑞医疗
+药明康德
 
-[jekyll-organization]: https://github.com/jekyll
+以上这些都是各个行业中非常有潜力的公司，非常期待这些公司在 资沽指数ZigIndex 中的表现。
