@@ -1,14 +1,12 @@
-title: Your awesome title
+title: 资沽指数 - 沪深A股非官方增强指数
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: 资沽指数
+  email: zigindex@163.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  A股, 非官方, 民间, 指数, 私人, 基金, 私募, 沪深.
 
 # Build settings
 
