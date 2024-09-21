@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: page
-title: 资沽指数ZigIndex - 沪深A股非官方增强指数
+title: 资沽指数 - 沪深A股非官方增强指数
 permalink: /
 ---
 
@@ -14,7 +14,7 @@ permalink: /
 
 在沪深A股市场中，国内官方指数一直在过山车，原地踏步，故而创建一个非官方指数--资沽指数，对应英文名为ZigIndex，力争打破国内指数长期徘徊的魔咒。
 
-资沽指数ZigIndex的官方网站为http://www.zigindex.com，本指数运营起始于2024年1月。
+资沽指数ZigIndex的官方网站为http://zigindex.github.com，本指数运营起始于2024年1月。
 
 资沽指数ZigIndex将以季度为周期进行维护运营，调整其成分股与对应权重比例，目前这个指数以组合的形式在东方财富与雪球社区运行，具体成分股与权重配置请点击查看资沽指数ZigIndex。
 
