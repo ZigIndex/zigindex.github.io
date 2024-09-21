@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 资沽指数 - 沪深A股非官方增强指数
+title: about
 permalink: /about/
 ---
 
