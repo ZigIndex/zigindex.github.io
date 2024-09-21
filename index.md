@@ -6,9 +6,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: page
-title: 资沽指数 - 沪深A股非官方增强指数
+title: 
 permalink: /
 ---
+
+**资沽指数 - 沪深A股非官方增强指数**<br>
 
 在沪深A股市场中，国内官方指数一直在过山车，原地踏步，故而创建一个非官方指数--资沽指数，对应英文名为ZigIndex，力争打破国内指数长期徘徊的魔咒。<br>
 
